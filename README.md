@@ -1,2 +1,19 @@
-# JavaScriptPlayground
-JavaScript Playground is a personal space for experimenting with JavaScript concepts, syntax, and projects. It contains small programs, code snippets, and mini-projects that cover everything from basic language features to advanced topics like asynchronous programming, DOM manipulation, and modern ES6+ features.
+# JS Playground 🟨
+
+A personal playground for learning and experimenting with **JavaScript** concepts, problems, and mini-projects.  
+This repo is a collection of small examples, from the basics to more advanced features, to document my journey with JavaScript.
+
+---
+
+## 📂 Structure
+- `basics/` → Core language fundamentals (variables, functions, loops, etc.)  
+- `projects/` → Small experiments and problem-solving exercises  
+- `playground/` → Random tests and quick ideas  
+
+---
+
+## ⚙️ Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/js-playground.git
+   cd js-playground
